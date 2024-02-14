@@ -1,0 +1,12 @@
+{
+  "$schema": "https://raw.githubusercontent.com/microsoft/vcpkg-tool/main/docs/vcpkg.schema.json",
+  "name": "test-cpp-module",
+  "version-string": "0.0.1",
+  "builtin-baseline": "53bef8994c541b6561884a8395ea35715ece75db",
+  "dependencies": [
+    {
+      "name": "doctest",
+      "version>=": "2.4.11"
+    }
+  ]
+}
